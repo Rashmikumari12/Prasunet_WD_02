@@ -2,9 +2,8 @@
 <h2 align="center">
   Stopwatch Web Application
 </h2>
-
 <div align="center">
-  <img alt="Stopwatch Demo" src="./https://github.com/Rashmikumari12/Prasunet_WD_02/blob/main/StopWatch/Stop-Watch/bg.png" />
+![readme-bg](https://github.com/user-attachments/assets/1e39a5ea-ebf5-4059-89a5-ee3ae76ee067)
 </div>
 
 ## Table of Contents
