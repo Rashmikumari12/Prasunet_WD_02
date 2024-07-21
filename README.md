@@ -2,9 +2,8 @@
 <h2 align="center">
   Stopwatch Web Application
 </h2>
-<div align="center">
-![readme-bg](https://github.com/user-attachments/assets/1e39a5ea-ebf5-4059-89a5-ee3ae76ee067)
-</div>
+
+![readme-bg](https://github.com/user-attachments/assets/6705ec73-7441-4d8a-ae50-65ab0265789f)
 
 ## Table of Contents
 
