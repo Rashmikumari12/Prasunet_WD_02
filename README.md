@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Stopwatch Demo" src="./readme-bg.jpg" />
+  <img alt="Stopwatch Demo" src="./https://github.com/Rashmikumari12/Prasunet_WD_02/blob/main/StopWatch/Stop-Watch/bg.png" />
 </div>
 
 ## Table of Contents
